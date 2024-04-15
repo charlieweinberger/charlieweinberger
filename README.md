@@ -10,14 +10,16 @@
 - President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023) 🤖
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
-### Statistics
+### Statistics & Languages
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charlieweinberger&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlieweinberger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Languages
+### 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
