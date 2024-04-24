@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Charlie Weinberger 👋 </h1>
 
 ### About Me
-- 🌹 From Pasadena, California <br>
-- 🗺️ Studying Computer Science @ UC Irvine <br>
-- 🖥️ Interested in web development, data structures & algorithms, and artificial intelligence <br>
-- ⚽ Love playing soccer and rock climbing<br>
-
+- From Pasadena, California 🌹
+- Studying Computer Science @ UC Irvine 🗺️
+- Interested in web development, data structures & algorithms, and artificial intelligence 🖥️
+- Love playing soccer and rock climbing ⚽
 
 ### Experience
-🤖 President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023)
-🌠 Summer Research Intern @ California Institute of Technology (June 2022 - August 2022)
+- President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023) 🤖
+- Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
 ### Statistics & Languages
 
