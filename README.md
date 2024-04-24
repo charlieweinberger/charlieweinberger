@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Charlie Weinberger 👋 </h1>
 
 ### About Me
-🌹 From Pasadena, California <br>
-🗺️ Studying Computer Science @ UC Irvine <br>
-🖥️ Interested in web development, data structures & algorithms, and artificial intelligence <br>
-⚽ Love playing soccer and rock climbing<br>
+- 🌹 From Pasadena, California <br>
+- 🗺️ Studying Computer Science @ UC Irvine <br>
+- 🖥️ Interested in web development, data structures & algorithms, and artificial intelligence <br>
+- ⚽ Love playing soccer and rock climbing<br>
 
 
 ### Experience
