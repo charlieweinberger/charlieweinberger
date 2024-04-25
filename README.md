@@ -7,6 +7,7 @@
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
+- Data Labeler @ FieldAI (April 2024 - Present) 📊
 - President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023) 🤖
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
