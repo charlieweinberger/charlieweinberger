@@ -3,12 +3,12 @@
 ### About Me
 - From Pasadena, California 🌹
 - Studying Computer Science @ UC Irvine 🗺️
-- Interested in web development, data structures & algorithms, and artificial intelligence 🖥️
+- Interested in full-stack web development, data structures & algorithms, and artificial intelligence 🖥️
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
 - Data Labeler @ FieldAI (April 2024 - Present) 📊
-- President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023) 🤖
+- President & Lead Programmer @ [First Tech Challenge team #15157](https://github.com/IFC-Robotics) (August 2022 - June 2023) 🤖
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
 ### Statistics & Languages
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
