@@ -7,6 +7,7 @@
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
+- SWE Fellow @ HeadstarterAI (July 2024 - Present) 📚
 - Data Labeler @ FieldAI (April 2024 - Present) 📊
 - President & Lead Programmer @ [First Tech Challenge team #15157](https://github.com/IFC-Robotics) (August 2022 - June 2023) 🤖
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
@@ -24,6 +25,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,java,js,html,css,nodejs,expressjs,git,vim,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,java,js,ts,html,css,nodejs,react,nextjs,firebase,postgresql,openai,langchain,pinecone,aws,git,vim,vscode" />
   </a>
 </p>
