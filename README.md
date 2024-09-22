@@ -7,10 +7,14 @@
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
-- SWE Fellow @ HeadstarterAI (July 2024 - Present) 📚
-- Data Labeler @ FieldAI (April 2024 - Present) 📊
+- SWE Fellow @ HeadstarterAI (July 2024 - September 2024) 📚
+- Data Labeler @ FieldAI (April 2024 - August 2024) 📊
 - President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023) 🤖
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
+
+### Currently...
+- Building a full-stack tutoring app for Sigmath Multiservices 🔢
+- Learning PostgreSQL through Supabase 🦸
 
 ### Statistics & Languages
 
