@@ -13,6 +13,7 @@
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
 ### Currently...
+- Learning Data Structures, Computer Organization, and Data Management @ UCI 🏫
 - Building a full-stack tutoring app for Sigmath Multiservices 🔢
 - Learning PostgreSQL through Supabase 🦸
 
