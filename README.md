@@ -3,15 +3,13 @@
 ### About Me
 - From Pasadena, California 🌹
 - Studying Computer Science @ UC Irvine 🗺️
-- Interested in full-stack web development, data structures & algorithms, and artificial intelligence 🖥️
+- Interested in full-stack web development, mobile development, and artificial intelligence 🖥️
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
 - PeterPortal Software Developer @ ICSSC (November 2024 - Present) 🐜
 - Research Participant @ Humanity Unleashed (November 2024 - Present) 🧍
-- SWE Fellow @ HeadstarterAI (July 2024 - September 2024) 📚
 - Data Labeler @ FieldAI (April 2024 - August 2024) 📊
-- President & Lead Programmer @ First Tech Challenge team #15157 (August 2022 - June 2023) 🤖
 - Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
 ### Statistics & Languages
@@ -27,6 +25,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,rust,js,ts,html,css,tailwindcss,nodejs,expressjs,react,nextjs,firebase,postgresql" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,html,css,tailwindcss,nodejs,react,nextjs,supabase,postgresql" />
   </a>
 </p>
