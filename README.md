@@ -14,8 +14,8 @@
 
 ### Recent Projects
 
-- Leetcode Calendar: A chrome extension that displays your leetcode submission history every time you open a new tab 📅
-- UCI App Catalog: A platform that allows UCI students to find, save, and suggest useful UCI-related websites and apps 🌐
+- [Leetcode Calendar](https://github.com/charlieweinberger/leetcode-calendar): A web extension that displays your leetcode submission history every time you open a new tab 📅
+- [UCI App Catalog](https://github.com/charlieweinberger/uci-app-catalog): A platform where UCI students can find, save, and suggest useful UCI-related websites and apps 🌐
 
 ### Statistics & Languages
 
