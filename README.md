@@ -7,6 +7,7 @@
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
+- Incoming Software Engineering Intern @ Beach Point Capital Management (July 2025 - Summer 2025) 🏖️
 - PeterPortal Software Developer @ ICSSC (November 2024 - Present) 🐜
 - Research Participant @ Humanity Unleashed (November 2024 - Present) 🧍
 - Data Labeler @ FieldAI (April 2024 - August 2024) 📊
