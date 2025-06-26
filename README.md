@@ -7,7 +7,7 @@
 - Love playing soccer and rock climbing ⚽
 
 ### Experience
-- Incoming Software Engineering Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
+- Incoming SWE Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
 - Webmaster @ Anteater Adventure Club (May 2025 - Present) ⛺
 - [PeterPortal](https://github.com/icssc/peterportal-client) Software Developer @ ICSSC (November 2024 - Present) 🐜
 
