@@ -10,9 +10,6 @@
 - Incoming Software Engineering Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
 - Webmaster @ Anteater Adventure Club (May 2025 - Present) ⛺
 - [PeterPortal](https://github.com/icssc/peterportal-client) Software Developer @ ICSSC (November 2024 - Present) 🐜
-- Research Participant @ Humanity Unleashed (November 2024 - Present) 🧍
-- Data Labeler @ FieldAI (April 2024 - August 2024) 📊
-- Summer Research Intern @ California Institute of Technology (June 2022 - August 2022) 🌠
 
 ### Recent Projects
 
