@@ -14,7 +14,6 @@
 ### Recent Projects
 
 - [UCI Tentative Course Offerings](https://github.com/charlieweinberger/UCI-Tentative-Course-Offerings): A website for viewing the tentative course offering list for all schools/departments at UCI 🏓
-- [Classify](https://github.com/coderkai03/Classify): A website for creating visually stunning, informational university course schedules using AI! 🎨
 - [AI Course Scheduler](https://github.com/charlieweinberger/csp-course-scheduler): A constraint satisfaction problem (CSP) solver that creates a course schedule for you 📚 
 - [Leetcode Calendar](https://github.com/charlieweinberger/leetcode-calendar): A web extension that displays your leetcode submission history every time you open a new tab 📅
 - [UCI App Catalog](https://github.com/charlieweinberger/uci-app-catalog): A platform where UCI students can find, save, and suggest useful UCI-related websites and apps 🌐
