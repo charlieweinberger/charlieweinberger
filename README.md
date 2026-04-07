@@ -3,13 +3,14 @@
 ### About Me
 - From Pasadena, California 🌹
 - Studying Computer Science @ UC Irvine 🗺️
-- Interested in full-stack web development 🖥️
+- Interested in full-stack software development 🖥️
 - Love playing soccer and rock climbing ⚽
 
 ### Work/Club Experience
+- Part-Time Software Developer @ TOCA Football (April 2026 - Present) ⚽
 - SWE Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
-- [PeterPortal](https://github.com/icssc/peterportal-client) Software Developer @ ICSSC (November 2024 - Present) 🐜
-- [Webmaster](https://github.com/Anteater-Adventure-Club/Website) @ Anteater Adventure Club (September 2025 - Present) ⛺
+- [PeterPortal](https://github.com/icssc/peterportal-client) Software Developer @ ICS Student Council (November 2024 - Present) 🐜
+- [Webmaster](https://github.com/Anteater-Adventure-Club/Website) & Vice President @ Anteater Adventure Club (September 2025 - Present) ⛺
 
 ### Recent Personal Projects
 
