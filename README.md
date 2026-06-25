@@ -10,7 +10,7 @@
 - Part-Time Software Developer @ TOCA Football (April 2026 - Present) ⚽
 - SWE Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
 - [PeterPortal](https://github.com/icssc/peterportal-client) Software Developer @ ICS Student Council (November 2024 - Present) 🐜
-- [Webmaster](https://github.com/Anteater-Adventure-Club/Website) & Vice President @ Anteater Adventure Club (September 2025 - Present) ⛺
+- https://github.com/Anteater-Adventure-Club/Website & Vice President @ Anteater Adventure Club (September 2025 - May 2026) ⛺
 
 ### Recent Personal Projects
 
