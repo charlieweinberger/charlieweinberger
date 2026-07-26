@@ -6,16 +6,14 @@
 - Interested in full-stack software development 🖥️
 - Love playing soccer and rock climbing ⚽
 
-### Work/Club Experience
-- Part-Time Software Developer @ TOCA Football (April 2026 - Present) ⚽
-- SWE Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
+### Experience
+- Software Developer @ TOCA Football (April 2026 - Present) ⚽
 - [PeterPortal](https://github.com/icssc/peterportal-client) Software Developer @ ICS Student Council (November 2024 - Present) 🐜
-- Webmaster & Vice President @ Anteater Adventure Club (September 2025 - May 2026) ⛺
+- Vice President & Webmaster @ Anteater Adventure Club (September 2025 - May 2026) ⛺
+- SWE Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
 
-### Recent Personal Projects
-
+### Projects
 - [Leetcode Calendar](https://github.com/charlieweinberger/leetcode-calendar): A web extension that displays your leetcode submission history every time you open a new tab 📅
-- [UCI App Catalog](https://github.com/charlieweinberger/uci-app-catalog): A platform where UCI students can find, save, and suggest useful UCI-related websites and apps 🌐
 
 ### Statistics & Languages
 
