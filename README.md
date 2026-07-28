@@ -13,4 +13,5 @@
 - SWE Intern @ Beach Point Capital Management (July 2025 - August 2025) 🏖️
 
 ### Projects
-- [Leetcode Calendar](https://github.com/charlieweinberger/leetcode-calendar): A web extension that displays your leetcode submission history every time you open a new tab 📅
+- [Leetcode Calendar](https://github.com/charlieweinberger/leetcode-calendar): Helping 150+ users practice LeetCode consistently with a browser extension that displays LeetCode submission
+history on every new tab, achieving a 5.0 rating on the [Chrome Web Store](https://chromewebstore.google.com/detail/leetcode-calendar/adakeigfgmhioifigjibpjdbgnanogkc) and [Firefox Add-Ons Page](https://addons.mozilla.org/en-US/firefox/addon/leetcode-calendar/).
