@@ -14,4 +14,4 @@
 
 ### Projects
 - [Leetcode Calendar](https://github.com/charlieweinberger/leetcode-calendar): Helping 150+ users practice LeetCode consistently with a browser extension that displays LeetCode submission
-history on every new tab, achieving a 5.0 rating on the [Chrome Web Store](https://chromewebstore.google.com/detail/leetcode-calendar/adakeigfgmhioifigjibpjdbgnanogkc) and [Firefox Add-Ons Page](https://addons.mozilla.org/en-US/firefox/addon/leetcode-calendar/).
+history on every new tab, achieving a 5.0 rating on the [Chrome Web Store](https://chromewebstore.google.com/detail/leetcode-calendar/adakeigfgmhioifigjibpjdbgnanogkc) and [Firefox Add-Ons Page](https://addons.mozilla.org/en-US/firefox/addon/leetcode-calendar/) 🗓️
