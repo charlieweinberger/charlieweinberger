@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Charlie Weinberger 👋 </h1>
 
 ### About Me
+
+<!--STARS_START-->
+![Total Stars](https://img.shields.io/badge/total__stars-31-yellow?style=for-the-badge&logo=github)
+<!--STARS_END-->
 - From Pasadena, California 🌹
 - Studying Computer Science @ UC Irvine 🗺️
 - Interested in full-stack software development 🖥️
